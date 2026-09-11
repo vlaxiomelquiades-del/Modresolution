@@ -1,8 +1,0 @@
-{
-  "type": "preload-native",
-  "name": "Resolução do Jogo (30%-100%)",
-  "author": "DarkKdevon",
-  "version": "1.0.0",
-  "entry": "libresscale.so",
-  "minecraft_versions": []
-}
